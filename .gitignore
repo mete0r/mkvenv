@@ -1,0 +1,4 @@
+.*.sw?
+.installed.cfg
+bin
+parts
